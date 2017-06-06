@@ -4,5 +4,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi enim doloribus n
 #### Submissions
 | Problem | Solution | Difficulty | Score Received |
 | :--- | :--- | :---: | :---: |
-| [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) | [ctci-fibonacci-numbers](https://github.com/rotiroti/hacker-rank/tutorials/cracking-the-coding-interview/ctci-fibonacci-numbers) | Easy | 15 |
-| [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer) | [ctci-lonely-integer](https://github.com/rotiroti/hacker-rank/tutorials/cracking-the-coding-interview/ctci-lonely-integer) | Easy | 20 |
+| [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) | [ctci-fibonacci-numbers](ctci-fibonacci-numbers/Solution.java) | Easy | 15 |
+| [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer) | [ctci-lonely-integer](ctci-lonely-integer/Solution.java) | Easy | 20 |
