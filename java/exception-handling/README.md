@@ -4,5 +4,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure delectus id labor
 #### Submissions
 | Problem | Solution | Difficulty | Score Received |
 | :--- | :--- | :---: | :---: |
-| [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch) | [java-exception-handling-try-catch](https://github.com/rotiroti/hacker-rank/java/exception-handling/java-exception-handling-try-catch) | Easy | 10 |
-| [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling) | [java-exception-handling](https://github.com/rotiroti/hacker-rank/java/exception-handling/java-exception-handling) | Easy | 15 |
+| [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch) | [java-exception-handling-try-catch](java-exception-handling-try-catch/Solution.java) | Easy | 10 |
+| [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling) | [java-exception-handling](java-exception-handling/Solution.java) | Easy | 15 |

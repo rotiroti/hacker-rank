@@ -3,10 +3,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus sit, sequi vo
 
 | Subdomain | Challenges Completed |
 | :--- | :---: |
-| [Introduction](https://github.com/rotiroti/hacker-rank/java/introduction/README.md) | 13/13 |
-| [Strings](https://github.com/rotiroti/hacker-rank/java/strings/README.md) | 9/11 |
-| [BigNumber](https://github.com/rotiroti/hacker-rank/java/big-number/README.md) | 3/3 |
-| [Data Structures](https://github.com/rotiroti/hacker-rank/java/data-structures/README.md) | 4/15 |
-| [Object Oriented Programming](https://github.com/rotiroti/hacker-rank/java/object-oriented-programming/README.md) | 8/8 |
-| [Exception Handling](https://github.com/rotiroti/hacker-rank/java/exception-handling/README.md) | 2/2 |
-| [Advanced](https://github.com/rotiroti/hacker-rank/java/advanced/README.md) | 3/12 |
+| [Introduction](introduction/README.md) | 13/13 |
+| [Strings](strings/README.md) | 9/11 |
+| [BigNumber](big-number/README.md) | 3/3 |
+| [Data Structures](data-structures/README.md) | 4/15 |
+| [Object Oriented Programming](object-oriented-programming/README.md) | 8/8 |
+| [Exception Handling](exception-handling/README.md) | 2/2 |
+| [Advanced](advanced/README.md) | 3/12 |
