@@ -1,0 +1,8 @@
+# LANGUAGES - SQL
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus sit, sequi voluptate totam! Temporibus aut fuga quaerat facere, officia ipsa eos quas perspiciatis veritatis alias, saepe sit velit eius officiis?
+
+| Subdomain | Challenges Completed |
+| :--- | :---: |
+| [Basic Select](basic-select/README.md) | 20/20 |
+| [Aggregation](aggregation/README.md) | 7/17 |
+| [Basic Join](basic-join/README.md) | 3/8 |
