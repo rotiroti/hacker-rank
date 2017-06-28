@@ -29,4 +29,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi enim doloribus n
 | [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) | [30-binary-search-trees](30-binary-search-trees/Solution.java) | Easy | 30 |
 | [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) | [30-binary-trees](30-binary-trees/Solution.java) | Easy | 30 |
 | [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | [30-linked-list-deletion](30-linked-list-deletion/Solution.java) | Easy | 30 |
-| [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity) | [30-running-time-and-complexity](30-running-time-and-complexity) | Medium | 30 |
+| [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity) | [30-running-time-and-complexity](30-running-time-and-complexity/Solution.java) | Medium | 30 |
+| [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic) | [30-nested-logic](30-nested-logic/Solution.java) | Easy | 30 |
+| [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing) | [30-testing](30-testing/Solution.java) | Easy | 30 |
+| [Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns) | [30-regex-patterns](30-regex-patterns/Solution.java) | Medium | 30 |
+| [Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and) | [30-bitwise-and](30-bitwise-and/ElegantSolution.java) | Medium | 30 |
