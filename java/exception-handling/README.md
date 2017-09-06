@@ -1,5 +1,4 @@
-# Java - Exception Handling
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure delectus id laborum, voluptatum at, molestiae. Saepe facilis porro quasi, maxime quia reiciendis accusantium quidem voluptates veniam ab nesciunt harum assumenda.
+# LANGUAGES JAVA - Exception Handling
 
 #### Submissions
 | Problem | Solution | Difficulty | Score Received |

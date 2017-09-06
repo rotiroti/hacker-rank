@@ -1,5 +1,4 @@
-# Java - Data Structures
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam iste minima eius dolore, placeat facere, dolorum debitis. Vero nesciunt dolor, asperiores consequuntur, reiciendis optio, adipisci cupiditate aspernatur fugiat libero repellendus.
+# LANGUAGES JAVA - Data Structures
 
 #### Submissions
 | Problem | Solution | Difficulty | Score Received |

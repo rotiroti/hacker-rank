@@ -1,5 +1,4 @@
-# Java - Object Oriented Programming
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, asperiores, hic. Temporibus possimus quos fugiat nihil eveniet! Vero rerum praesentium vel suscipit omnis id delectus sint accusantium illo, quae, ab!
+# LANGUAGES JAVA - Object Oriented Programming
 
 #### Submissions
 | Problem | Solution | Difficulty | Score Received |

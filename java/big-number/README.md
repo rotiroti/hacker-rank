@@ -1,5 +1,4 @@
-# Java - BigNumber
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla quasi dicta, in, earum vitae, vel est molestiae voluptate itaque explicabo exercitationem consectetur odit harum natus. Dolore quas itaque nihil id.
+# LANGUAGES JAVA - BigNumber
 
 #### Submissions
 Problem | Solution | Difficulty | Score Received |

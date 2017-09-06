@@ -1,5 +1,4 @@
-# Java - Advanced
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quo perspiciatis velit natus, iure itaque corrupti, ipsa dolores ex dolore consectetur assumenda temporibus minus nulla ullam. Corporis architecto, deleniti incidunt!
+# LANGUAGES JAVA - Advanced
 
 #### Submissions
 | Problem | Solution | Difficulty | Score Received |

@@ -1,5 +1,4 @@
-# Databases - Set and Algebra
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quo perspiciatis velit natus, iure itaque corrupti, ipsa dolores ex dolore consectetur assumenda temporibus minus nulla ullam. Corporis architecto, deleniti incidunt!
+# DATABASES - Set and Algebra
 
 #### Submissions
 | Problem | Solution | Difficulty | Score Received |

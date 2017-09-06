@@ -1,5 +1,4 @@
 # Cracking the Coding Interview
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi enim doloribus neque ab at expedita ullam aliquid eveniet unde exercitationem, assumenda, quod soluta sequi et illum placeat officia nobis alias.
 
 #### Submissions
 | Problem | Solution | Difficulty | Score Received |

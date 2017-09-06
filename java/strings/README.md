@@ -1,5 +1,4 @@
-# Java - Strings
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus eos atque magnam quas dicta doloribus vitae. Molestias totam perspiciatis, non illo alias dicta cupiditate animi, architecto ab, quae atque temporibus.
+# LANGUAGES JAVA - Strings
 
 #### Submissions
 | Problem | Solution | Difficulty | Score Received |
@@ -12,4 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus eos atque 
 | [Java String Token](https://www.hackerrank.com/challenges/java-string-token) | [java-string-token](java-string-token/Solution.java) | Easy | 15 |
 | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker) | [pattern-syntax-checker](pattern-syntax-checker/Solution.java) | Easy | 20 |
 | [Java Regex](https://www.hackerrank.com/challenges/java-regex) | [java-regex](java-regex/Solution.java) | Easy | 25 |
+| [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word) | [duplicate-word](duplicate-word/Solution.java) | Medium | 25 |
 | [Java Regex 3 - Username Checker](https://www.hackerrank.com/challenges/valid-username-checker) | [valid-username-checker](valid-username-checker/Solution.java) | Medium | 20 |

@@ -1,5 +1,4 @@
-# Java - Introduction
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi enim doloribus neque ab at expedita ullam aliquid eveniet unde exercitationem, assumenda, quod soluta sequi et illum placeat officia nobis alias.
+# LANGUAGES JAVA - Introduction
 
 #### Submissions
 | Problem | Solution | Difficulty | Score Received |
